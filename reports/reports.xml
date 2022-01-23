@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+
+    <report id="natcom_natcom_jan_view"
+      		model="account.move"
+      		string="Natcom PDF Mou"
+      		report_type="qweb-pdf"
+      		name="natcom_jan_pdf.natcom_jan_view"
+      		file="natcom_jan_pdf.natcom_jan_view"
+    />
+
+</odoo>
